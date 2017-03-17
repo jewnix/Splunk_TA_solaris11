@@ -1,0 +1,13 @@
+Unix Add-on
+----------------------------------------
+	
+	Has index-time operations: true, this TA must be deployed on indexers
+	Solaris 11 only
+        
+
+Using this Add-on:
+----------------------------------------
+	Configuration: Manual
+	Ports for automatic configuration: None
+	Scripted input setup: Not applicable
+=======
